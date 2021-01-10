@@ -1,0 +1,13 @@
+p {
+  color: gray;
+}
+h3 {
+  text-shadow: 0 3px 5px green;
+  text-decoration: underline dotted brown;
+}
+
+i {
+  color: blue;
+  font-weight: bold;
+  text-decoration: line-through;
+}
