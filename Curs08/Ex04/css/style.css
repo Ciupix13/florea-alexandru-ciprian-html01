@@ -33,7 +33,9 @@
   z-index: 1;
   color: white;
 }
-.nav-bottom a {
+.nav-top {
   color: white;
   text-decoration: none;
+  background-color: black;
+  z-index: 1;
 }

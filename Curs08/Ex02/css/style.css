@@ -119,3 +119,28 @@ ol a {
   font-family: 'Roboto';
   font-weight: bold;
 }
+h1 {
+  color: red;
+  font-family: 'Julius Sans One';
+  font-size: 35px;
+}
+body {
+  font-family: 'Roboto';
+}
+li {
+  font-family: 'Julius Sans One';
+  line-height: 25px;
+}
+h3 {
+  color: green;
+  font-size: 28px;
+}
+h2 {
+  font-family: 'Julius Sans One';
+  color: purple;
+  text-decoration: underline;
+  font-size: 32px;
+}
+p {
+  line-height: 23px;
+}

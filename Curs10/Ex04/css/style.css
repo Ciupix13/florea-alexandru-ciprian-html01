@@ -1,1 +1,21 @@
-
+p b {
+  color: purple;
+}
+ul i {
+  text-decoration: underline;
+}
+h1 + h2 {
+  color: green;
+}
+h2 + h3 {
+  text-decoration: underline red dotted;
+  margin-top: 8px;
+}
+ol ~ h3 {
+  margin: 1px blue;
+  padding: 5px;
+}
+ul ~ p {
+  border: black dotted;
+  padding: 20px;
+}

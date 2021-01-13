@@ -15,3 +15,21 @@ ol li {
 .para-span {
   display: inline-block;
 }
+.para span {
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid red;
+}
+ul li {
+  display: inline;
+}
+.para-large {
+  display: block;
+  margin: 25px;
+  padding: 10px;
+}
+.para-large span {
+  padding: 5px;
+  margin: 5px;
+  border: 2px green dotted;
+}
